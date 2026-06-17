@@ -1,35 +1,35 @@
-# Hey, I'm Regan Albion
+# Regan Albion
 
-Information Systems student at President University (Data Science concentration), currently in my 5th semester. I'm into building things at the intersection of data science, machine learning, and finance.
+Information Systems student at President University with a Data Science concentration, expected to graduate in 2027. I work at the intersection of data science, machine learning, and quantitative finance, with a focus on building end to end pipelines and applying them to financial and risk problems. Currently a selected participant in the DBS Foundation Coding Camp 2026.
 
-## What I'm Working On
+## Focus Areas
+- End to end machine learning pipelines, from ETL to model deployment
+- Quantitative finance: market backtesting, factor models, and macroeconomic analysis
+- Credit risk, insurance, and fraud detection modeling
+- National data science competitions (DSCO BINUS, MCF ITB x AXA Financial)
 
-- Competing in data science competitions (DSCO BINUS, MCF ITB x AXA Financial)
-- Building end-to-end ML pipelines -- from ETL to model deployment
-- Exploring quantitative finance and algorithmic trading strategies
-- Currently enrolled in DBS Foundation Coding Camp 2026
-
-## Projects
+## Selected Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Phishing URL Detection](https://github.com/reganalbione-byte/phishing-url-detection) | Ensemble model (LightGBM + XGBoost + CatBoost) for detecting phishing URLs -- built for DSCO BINUS competition | Python, TF-IDF, LightGBM, XGBoost, CatBoost |
-| [Insurance Claim Prediction](https://github.com/reganalbione-byte/insurance-claim-prediction) | Regression model to forecast health insurance claim amounts -- MCF ITB x AXA Financial competition | Python, Scikit-learn, Ridge Regression, Pandas |
-| [Customer Segmentation App](https://github.com/reganalbione-byte/dvdrental-customer-segmentation) | Full-stack Django app with ETL pipeline + Random Forest model for customer segmentation | Django, PostgreSQL, Scikit-learn, Random Forest |
+| [IHSG Post-Crash Reversal Backtest](https://github.com/reganalbione-byte/ihsg-reversal-backtest) | Backtest of the four largest IHSG crashes (2008 to 2020) testing whether market reversals require foreign net inflow. Three of four reversals began while foreigners were still net sellers. | Python, pandas, statsmodels, yfinance |
+| [CreditRisk AIS](https://github.com/reganalbione-byte/Home-Credit-App) | Web based credit risk scoring system on the Home Credit dataset, with automated approval scoring, PSAK 71 ECL staging, and double entry journaling. | React, TypeScript, Supabase |
+| [Insurance Claim Prediction](https://github.com/reganalbione-byte/insurance-claim-prediction) | Regression model forecasting health insurance claim amounts for the MCF ITB x AXA Financial competition. | Python, Scikit-learn, Ridge Regression |
+| [Phishing URL Detection](https://github.com/reganalbione-byte/phishing-url-detection) | Ensemble classifier (LightGBM, XGBoost, CatBoost) detecting phishing URLs from raw strings, built for the DSCO BINUS competition. | Python, TF-IDF, LightGBM, XGBoost, CatBoost |
+| [ELANG](https://github.com/reganalbione-byte/ELANG) | Proof of concept turning city CCTV into automated traffic violation detection and analytics. | Python, YOLOv8, PaddleOCR, Streamlit |
 
-## Tech & Tools
-
+## Tech and Tools
 **Languages:** Python, SQL
 
-**ML/DS:** Scikit-learn, LightGBM, XGBoost, CatBoost, Pandas, NumPy, Matplotlib, Seaborn
+**Machine Learning:** Scikit-learn, LightGBM, XGBoost, CatBoost, Pandas, NumPy, Matplotlib, Seaborn
 
-**Web & Data:** Django, PostgreSQL, Streamlit
+**Web and Data:** Django, FastAPI, PostgreSQL, Streamlit
 
 **Tools:** Git, Jupyter Notebook, VS Code
 
-## Let's Connect
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reganalbion/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:regan.albione@gmail.com)
 
-I'm looking for Data Science, AI/ML, or Quantitative Finance internship opportunities. Feel free to reach out.
+I am open to internship opportunities in Data Science, Machine Learning, and Quantitative Finance.
