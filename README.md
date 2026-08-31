@@ -1,6 +1,6 @@
 # Regan Albion
 
-Final-year Information Systems student at President University with a Data Science concentration, expected to graduate in December 2027. I work at the intersection of data science, machine learning, and quantitative finance, with a focus on building end to end pipelines and applying them to financial and risk problems. Currently a selected participant in the DBS Foundation Coding Camp 2026.
+Final-year Information Systems student at President University with a Data Science concentration, expected to graduate in December 2027. I work at the intersection of data science, machine learning, and quantitative finance, with a focus on building end to end pipelines and applying them to financial and risk problems. Currently a selected participant in the Asah 2026.
 
 ## Focus Areas
 - End to end machine learning systems, from feature engineering through deployment, drift detection and retraining
